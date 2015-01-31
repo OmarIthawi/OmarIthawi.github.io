@@ -1,6 +1,11 @@
 /**
  * Site header
  */
+
+html, body {
+    direction: rtl;
+}
+ 
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
