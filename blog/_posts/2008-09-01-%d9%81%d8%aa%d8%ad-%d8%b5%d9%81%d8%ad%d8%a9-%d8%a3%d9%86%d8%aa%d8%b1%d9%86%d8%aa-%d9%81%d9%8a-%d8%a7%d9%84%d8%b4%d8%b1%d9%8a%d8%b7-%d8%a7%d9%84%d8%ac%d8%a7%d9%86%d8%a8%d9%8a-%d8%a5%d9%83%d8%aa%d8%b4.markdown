@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: "فتح صفحة أنترنت في الشريط الجانبي! (إكتشاف غريب 2) + المزيد"
+author:
+  display_name: "عمر الدليمي"
+  login: admin
+  email: i@omardo.com
+  url: http://www.omardo.com
+author_login: admin
+author_email: i@omardo.com
+author_url: http://www.omardo.com
+wordpress_id: 190
+wordpress_url: http://www.omardo.com/blog/?p=190
+date: '2008-09-01 13:30:42 +0000'
+date_gmt: '2008-09-01 11:30:42 +0000'
+---
+<p>تبهرنا المرحلة التي وصلت إليها برامج الكومبيوتر!. صحيح أن هذا الأمر بدأ يصعّب الأمور علينا. لكنه في نفس الوقت يجعلها أسهل .. ببساطة لا تبحث عن شيء أكثر مما تحتاج :) إن كنت لا ترى عندك وقتاً لذلك :).</p>
+<p>وجدت شيئاً جديداً في FireFox3. وهو أن تفتح صفحة في الشريط الجانبي :).</p>
+<p>الأمر ليس فقط إكتشافاً .. لكنه غريب جداً :) .. أنظر الصورة - <span style="color: #808080;">أخذتها أثناء كتابة الموضوع</span> - :<!--more--></p>
+<p>[caption id="attachment_192" align="aligncenter" width="150" caption="صفحة أنترنت في فايرفوكس3 تفتح في الشريط الجانبي"]<a href="http://www.omardo.com/blog/wp-content/uploads/firefox3-link-opens-in-sidebar.png"><img class="size-thumbnail wp-image-192" title="صفحة أنترنت في فايرفوكس3 تفتح في الشريط الجانبي" src="http://www.omardo.com/blog/wp-content/uploads/firefox3-link-opens-in-sidebar-150x150.png" alt="صفحة أنترنت في فايرفوكس3 تفتح في الشريط الجانبي" width="150" height="150" /></a>[/caption]</p>
+<p>وبالنسبة لكيفية عملها فهي لن تعمل إلا في حالة الروابط المضافة لمحفظة العناوين (Bookmarks). أو إلى شريط العناوين (Link toolbar). حيث تعمل الآتي كما هو موضح بالصور:</p>
+<ol>
+<li>أن تضغط على أي رابط كان سواء في شريط الروابط Bookmark toolbar أو في المفضلة Bookmark، بالزر الأيمن ثم تختار Properties.
+<p>[caption id="attachment_193" align="aligncenter" width="150" caption="تعليم: أين تضغط على الرابط؟ "]<a href="http://www.omardo.com/blog/wp-content/uploads/firefox3-link-properties.png"><img class="size-thumbnail wp-image-193" title="تعليم: أين تضغط على الرابط؟" src="http://www.omardo.com/blog/wp-content/uploads/firefox3-link-properties-150x150.png" alt="تعليم: أين تضغط على الرابط؟" width="150" height="150" /></a>[/caption]</li>
+<li>أن تضع علامة الصح على المربع الموضح :):
+<p>[caption id="attachment_195" align="aligncenter" width="150" caption="تعليم: مربع الخيارات لرابط في فايرفوكس3"]<a href="http://www.omardo.com/blog/wp-content/uploads/firefox3-link-check-box.png"><img class="size-thumbnail wp-image-195" title="تعليم: مربع الخيارات لرابط في فايرفوكس3" src="http://www.omardo.com/blog/wp-content/uploads/firefox3-link-check-box-150x150.png" alt="تعليم: مربع الخيارات لرابط في فايرفوكس3" width="150" height="150" /></a>[/caption]</li>
+<li>وفقط إفتح الرابط من جديد. ولإزالة الخاصية. ببساطة أعد الخطوات مع إزالة علامة الصح من هناك :).</li>
+</ol>
+<p>هذا الأمر يفيدك في حال أنك تريد إضافة خصائص جديدة خاصة بك :) .. مثلاً دفتر ملاحظات خاص! أو برنامج ويب خفيف وصغير تضعه هناك! .. الأمر رائع حقاً .. وللفائدة روابط:</p>
+<ul>
+<li>ستحتاج متصفح الثعلب الناري (FireFox3) حمله من <a href="http://www.mozilla.com/en-US/firefox/all.html">هنــــــــا</a> ثم أبحث عن النظام الخاص بك (عادة Windows) واللغة المطلوبة. (المتصفح يقيك من 95% من فيروسات الأنترنت). فهو يفتح مواقع الأنترنت بأمان عالي.</li>
+<li>أضف أداة لفايرفوكس3 لحفظ الروابط أينما تذهب: <a href="https://addons.mozilla.org/en-US/firefox/addon/2410">Foxmarks Bookmark Synchronizer</a></li>
+<li>أضف أداة لتلوين الكتابة في المنتديات والمدونات والموسوعات (Wiki) :) .. جميلة جداً .. وتستطيع إستخدامها إن كنت ممن يكتب على النت: <a href="https://addons.mozilla.org/en-US/firefox/addon/4763">Text Formating Toolbar 0.1.4.</a>
+<p class="name" style="text-align: center;">تقبلوا تحيتي :)</p>
+</li>
+</ul>

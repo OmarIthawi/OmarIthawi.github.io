@@ -1,0 +1,44 @@
+---
+layout: post
+status: publish
+published: true
+title: "برنامج الآلة الحاسبة العلمية، على الأنترنت - 0.5"
+author:
+  display_name: "عمر الدليمي"
+  login: admin
+  email: i@omardo.com
+  url: http://www.omardo.com
+author_login: admin
+author_email: i@omardo.com
+author_url: http://www.omardo.com
+wordpress_id: 260
+wordpress_url: http://www.omardo.com/blog/?p=260
+date: '2008-09-15 06:00:34 +0000'
+date_gmt: '2008-09-15 04:00:34 +0000'
+---
+<p style="text-align: center;">برنامج بلغة <strong>Javascript</strong>. عملته ليكون مخصصاً للجوال لكن هذه نسخة تعمل على الحاسوب العادي وموضوعة على الأنترنت ولا تحتاج للتحميل.</p>
+<p style="text-align: right;">البرنامج يحتوي على العديد من الميزات مما تجعله برنامجاً شبه متكامل للقيام بالعمليات الحسابية الأربعة ويتضمن كذلك بعض الدوال المثلثية مثل الجيب والجيب تمام والظل ومعكوساتهم. وتوفر لك دالة المطلق للتخلص من الإشارة السالبة.</p>
+<p style="text-align: right;">البرنامج خفيف جداً. وسهل الإستعمال ويتوفر دليل أسفل البرنامج يوضح الأعمال التي يقوم بها!.</p>
+<p style="text-align: center;"><span style="color: #808080;"><strong>صورة للبرنامج</strong><!--more--></span></p>
+<p>[caption id="attachment_261" align="aligncenter" width="150" caption="JSCalc: Javascript Scientific Calculator"]<a href="http://www.omardo.com/blog/wp-content/uploads/jscalc-05b.png"><img class="size-thumbnail wp-image-261" title="JSCalc: Javascript Scientific Calculator" src="http://www.omardo.com/blog/wp-content/uploads/jscalc-05b-150x150.png" alt="" width="150" height="150" /></a>[/caption]</p>
+<h2 style="text-align: center;">معلومات عامة عنه</h2>
+<ul>
+<li>الإسم الكامل للبرنامج: حاسبة الجافاسكربت العلمية.</li>
+<li>الإسم الإنجليزي: JSCalc: Javascript Scientific Calculator</li>
+<li>الإصدارة الحالية: 0.5</li>
+<li>اللغات: عربي، إنجليزي (قريباً)</li>
+<li>التقنيات المستخدمة في بناءه: Javascript, CSS, XHTML</li>
+<li>البرامج المستخدمة في إنشاءه: محرر المواقع Aptana IDE 1.1 في كتابة كود البرنامج، وInkscape لغرض الألوان والتصميم.</li>
+<li>الوقت المستغرق: 3 أيام أو 24 ساعة شاملا الوقت المبذول على دراسة بعض المسائل في جافاسكربت.</li>
+<li>ترخيص الشيفرة المصدرية: شخصي، وسأطرحه برخصة عامة حال الإنتهاء منه</li>
+</ul>
+<h3 style="text-align: center;">رابط البرنامج</h3>
+<p style="text-align: center;"><strong><a href="http://www.omardo.com/js_calc ">حاسبة الجافاسكربت العلمية</a></strong></p>
+<h2 style="text-align: center;">صفحة البرنامج</h2>
+<p style="text-align: center;">هذه الصفحة: أضع فيها نبذة عن البرنامج، الخط الزمني لسير عملية التطوير في البرنامج. إن كنت تريد البقاء على إطلاع:</p>
+<p style="text-align: center;">صفحة: حاسبة الجافاسكربت العلمية</p>
+<h2 style="text-align: center;">ملاحظة</h2>
+<p style="text-align: center;">أرجوا أن لا تتردوا بمراسلتي بخصوص البرنامج أي إقتراح او خطأ فيه. وتستطيع ذلك إما بالتعليق هنا أو الذهاب إلى صفحة <a href="http://www.omardo.com/blog/contact-me"><strong>راسلني</strong></a></p>
+<p style="text-align: center;">
+<p style="text-align: center;"><span style="color: #ff6600;"><strong>تقبلوا أعطر التحايا<br />
+</strong></span></p>
