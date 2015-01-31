@@ -1,0 +1,9 @@
+﻿<%@ Page Language="VB" MasterPageFile="~/UserPanel/UserMasterPage.master" AutoEventWireup="false" CodeFile="GetBands.aspx.vb" Inherits="UserPanel_GetBands" title="Untitled Page" %>
+
+<%@ Register src="uc/GetBands.ascx" tagname="GetBands" tagprefix="uc1" %>
+
+<div id="ListOfThings">
+	<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+	    <uc1:GetBands ID="GetBands1" runat="server" />
+	</asp:Content>
+</div>
