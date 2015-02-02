@@ -16,7 +16,7 @@ wordpress_url: http://www.omardo.com/blog/2007/12/14/%d9%85%d8%ad%d8%a7%d9%83%d8
 date: '2007-12-14 08:47:53 +0000'
 date_gmt: '2007-12-14 06:47:53 +0000'
 ---
-<p>[singlepic=2,110,110,,right] من كثر الحلاقة! رسخ شكلها بمخي :) ..<br />
+<p><img alt="/wp-content/gallery/mydesign/machien.jpg" title="/wp-content/gallery/mydesign/machien.jpg" url="محاكاة ماكنة الحلاقة" /> من كثر الحلاقة! رسخ شكلها بمخي :) ..<br />
 وكمكافأة قررت  أن  أرسمها  وجاءت على قدر مقام الماكنة :) ..<br />
 إستغرق الامر ثلاث أيام<br />
 لإكمالها.<br />
@@ -26,9 +26,9 @@ date_gmt: '2007-12-14 06:47:53 +0000'
 <blockquote><p><strong>نبذة عن خطوات العمل:</strong></p>
 </blockquote>
 <p>1- أخذ صورة للماكنة الأصلية:<br />
-[singlepic=9,120,120,,]<br />
+<img alt="/wp-content/gallery/mydesign/machien_pict.jpg" title="/wp-content/gallery/mydesign/machien_pict.jpg" url="الصورة الأصلية للكامرة" /><br />
 2- إنشاء رسمة تخطيطية للماكنة، يدوياً .. بالإعتماد على زاوية الصورة المأخوذة فقط؛ لضمان أكبر مستوى ممكن من الدقة . وإدخالها بآلة Scanner.<br />
-[singlepic=10,120,120,,]<br />
+<img alt="/wp-content/gallery/mydesign/machien_scrap.jpg" title="/wp-content/gallery/mydesign/machien_scrap.jpg" url="تخطيط يدوي لرسم ماكنة الحلاقة" /><br />
 3- إنشاء تخطيط أدق للماكنة ببرنامج Adobe Illustrator،<br />
-[singlepic=8,120,120,,]<br />
+<img alt="/wp-content/gallery/mydesign/machien_Illustrator.gif" title="/wp-content/gallery/mydesign/machien_Illustrator.gif" url="تخطيط إلكتروني لرسم ماكنة الحلاقة" /><br />
 4- رسم الشفرات وتضليلها ببرنامج الفلاش لأنه سريع العمل ولا يأخذ وقتا خصوصا في التصاميم التي تميل للبساطة والتكرار.</p>

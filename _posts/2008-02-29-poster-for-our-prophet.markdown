@@ -16,7 +16,7 @@ wordpress_url: http://www.omardo.com/blog/archives/43
 date: '2008-02-29 13:35:30 +0000'
 date_gmt: '2008-02-29 11:35:30 +0000'
 ---
-<p>[singlepic=20,90,120,,right]طلب مني إبن عمي <strong>عدنان</strong> مرة أخرى أن أصمم له ملصقا، ولكن هذه المرة بموضوع مختلف.</p>
+<p><img alt="/wp-content/gallery/mydesign/our-prophet-lawers-defence.jpg" title="/wp-content/gallery/mydesign/our-prophet-lawers-defence.jpg" url="تصميم عن حملة الدفاع عن الرسول صلى الله عليه وسلم" />طلب مني إبن عمي <strong>عدنان</strong> مرة أخرى أن أصمم له ملصقا، ولكن هذه المرة بموضوع مختلف.</p>
 <p>عنوان التصميم هو:  "<span style="color: #800080;"><strong>القانون والإعلام يحاكمان الصور المسيئة للرسول</strong></span>" <span style="color: #333399;">صلى الله عليه وسلم </span></p>
 <p>فصممته على أن يعلق في "<strong><span style="color: #ff0000;">جامعة السلطان قابوس</span></strong>" - سلطنة عمان.  :) ، <strong>صلّي على نبينا محمد!</strong><!--more--></p>
 <p><strong>معلومات عن التصميم:</strong></p>

@@ -19,5 +19,5 @@ date_gmt: '2007-12-15 12:13:38 +0000'
 <p><img src="http://www.omardo.com/blog/wp-content/uploads/labayk-haj.jpg" alt="اللهم لبيك حجا" class="ngg-singlepic" align="right" height="110" width="96" />هذا الفلاش عملته خصيصا لمسابقة في www.Montada.com لعمل دليل فلاشي للحجاج إلى بيت الله الحرام.<br />
 لا تعاتبوني على المعلومات صحتها وخطئها فهي كانت إجبارية وأما التصميم فهو من عندي وهو محور المسابقة.<br />
 صحيح أنه لم يشارك أحد غير 2 بها ولكني أخرجته بأفضل ما عندي.<br />
-حمل الفلاش من هنا:<!--more-->[download#10]<font color="#000099"><br />
+حمل الفلاش من هنا:<!--more--><a href="http://www.omardo.com/blog/wp-content/uploads/haj.zip" />فلاش لبيك حجا</a><font color="#000099"><br />
 * لفتح الملف إضغط عليه (يمين) -&gt; (Explore)ـ</font></p>

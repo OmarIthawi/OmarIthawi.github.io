@@ -30,9 +30,9 @@ date_gmt: '2008-05-08 15:38:06 +0000'
 <p style="text-align: center;">حمل البرنامج:</p>
 <p></span></strong><br />
 <strong>النسخة العادية:</strong> هذه النسخة مضمونة العمل بعون الله. فهي توفر لك مثبت تلقائي سهل ومتكامل. الحجم:<span style="color: #808080;"> 3.2 ميجا بايت.</span><br />
-<strong>[download#19]</strong></p>
+<strong><a href="http://www.omardo.com/blog/wp-content/uploads/double-player-0.2.exe" />المشغل المزدوج</a></strong></p>
 <p><strong>النسخة المحمولة:</strong> تتطلب هذه النسخة وجود Visual Basic Run Time Library أو يكفي تثبيت برنامج Visual Basic 6 . هذه النسخة غير محبذة للمستخدمين العاديين بسبب أن إحتمال حصول الأخطاء أكبر!. الحجم:<span style="color: #808080;"> 480 كيلوبايت.</span><br />
-<strong>[download#20]</strong></p>
+<strong><a href="http://www.omardo.com/blog/wp-content/uploads/double-player-0.2.rar" />المشغل المزدوج - النسخة المحمولة</a></strong></p>
 <div><span style="color: #999999;">[صورة لواجهة البرنامج]</span></p>
 <p><span style="color: #999999;"><img style="max-width: 800px;" src="http://www.omardo.com/blog/wp-content/uploads/Double-Player-0.2-screenshot.jpg" alt="" /><br />
 </span></p>

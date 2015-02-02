@@ -16,13 +16,13 @@ wordpress_url: http://www.omardo.com/blog/2007/11/29/%d8%aa%d8%b5%d9%85%d9%8a%d9
 date: '2007-11-29 23:09:53 +0000'
 date_gmt: '2007-11-29 23:09:53 +0000'
 ---
-<p>[singlepic=6,110,110,,right] هذا التصميم هو تطبيق لدرس ليس إلا!<br />
+<p><img alt="/wp-content/gallery/mydesign/deepSea.jpg" title="/wp-content/gallery/mydesign/deepSea.jpg" url="رسم قاع المحيط بالفوتوشوب" /> هذا التصميم هو تطبيق لدرس ليس إلا!<br />
 ولكن لا تستهن به! فالدرس ليس هين :) .. فقد أخذ مني ساعتين في العمل ..<br />
 عدا تصميم الغواصة!  التي  كلفتني ساعتين أخرى ..<br />
 <!--more-->التصميم ببرنامج Photoshop<br />
 إليس جميلا؟<br />
 قد تود عمل واحد مشابه :) .. فلك هذا الدرس من <em>www.Montada.com</em><br />
 رابط الدرس مباشر من موقعي :) * تستطيع أن تفتحه مباشرة كصفحة أنترنت لن يتطلب مشغل فلاش.<br />
-- [download#13]<br />
-- [download#14]<br />
+- <a href="http://www.omardo.com/blog/wp-content/uploads/Deap-Sea.simulatingPDF.pdf" />درس قاع المحيط PDF</a><br />
+- <a href="http://www.omardo.com/blog/wp-content/uploads/Deap-Sea.simulatingSWF.swf" />درس قاع المحيط SWF</a><br />
 وإن كان لديك Flash Player فتستطيع أن تحفظه :) ..</p>

@@ -28,7 +28,7 @@ date_gmt: '2008-05-08 22:32:28 +0000'
 <p style="text-align: center;"><strong>حمل البرنامج:</strong></p>
 <p><strong></strong></p>
 <p><strong>النسخة العادية:</strong> . الحجم:<span style="color: #999999;"> 18 كيلوبايت فقط! </span><span style="color: #6600cc;"><strong>‘‘</strong></span> <span style="color: #c0c0c0;">يستغرق ثانية واحدة في التحميل!.</span><br />
-[download#21]</p>
+<a href="http://www.omardo.com/blog/wp-content/uploads/keyboard-ar-v1.02.zip" />لوحة المفاتيح العربية</a></p>
 <div>[صورة لواجهة البرنامج]</div>
 <div><img src="http://www.omardo.com/blog/wp-content/uploads/ar-keyboard-screenshot.jpg" alt="" /></div>
 <p>كما ترى فالبرنامج بسيط لا يحتاج لمعرفة سابقة أو دراسة. فقط كيف تكتب بلوحة المفاتيح.<br />
