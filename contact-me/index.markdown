@@ -20,4 +20,4 @@ date_gmt: '2008-01-11 12:45:10 +0000'
 <mailto:i@omardo.com>.
 
 ##سيرتي الذاتية
-باستطاعتك تحميل [سيرتي الذاتية بصيغة بي.دي.أف (PDF)](/blog/wp-content/uploads/omar-ithawi-resume.pdf).
+باستطاعتك تحميل [سيرتي الذاتية بصيغة بي.دي.أف (PDF)](/cv.pdf).
